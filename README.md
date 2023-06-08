@@ -1,12 +1,20 @@
 
 # tensor-py-lr
 Linear Regression AI that calculates a student's G1 based on G2, G3, studytime, failures and absences using TensorFlow, Keras, Numpy and Pandas.
+
 ## Dependencies
 - tensorflow==2.6.2
 - keras==2.6.0
 - pandas==1.1.5
 - numpy==1.19.5
 - scikit-learn==0.24.2
+
+## Installation
+- Create a conda environment with python 3.6
+- Activate the environment
+- Use pip to install all the dependencies above
+- Put the dataset and the main.py in the same folder
+- Run main.py with python 3.6
 
 ## Sample Workflow
 
