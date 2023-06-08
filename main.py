@@ -5,7 +5,7 @@ import sklearn
 from sklearn import linear_model
 from sklearn.utils import shuffle
 
-#Reads datasheet
+#Reads dataset
 data = pd.read_csv("student-mat.csv", sep=";")
 
 #Isolates only the columns we want to work with
